@@ -1,0 +1,18 @@
+{
+  "name": "es-proxy",
+  "version": "1.0.0",
+  "description": "proxy para trabajar local en ESV3",
+  "main": "gulpfile.js",
+  "bin": {
+    "es-proxy": "gulpfile.js"
+  },
+  "author": "podmaxs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {}
+}
